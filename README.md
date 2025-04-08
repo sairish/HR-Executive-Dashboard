@@ -43,7 +43,7 @@ The report is structured into two interactive views:
 Click the above link to watch the video walkthrough of the dashboard.
 
 ## 📂 Project Files
-- [📄 Coffee_sales_Dataset.csv](https://github.com/sairish/HR-Executive-Dashboard/tree/main/employee_Dataset)
+- [📄 employee_Dataset](https://github.com/sairish/HR-Executive-Dashboard/tree/main/employee_Dataset)
 - [`README.md`](https://github.com/sairish/HR-Executive-Dashboard/blob/main/README.md)
 
 
