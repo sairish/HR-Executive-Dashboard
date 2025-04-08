@@ -2,31 +2,26 @@
 [Click Here to Watch the Dashboard Walkthrough↗️](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
 
 ## 📌 Project Overview
-This Power BI dashboard provides an in-depth analysis of coffee sales across the United States for the years 2023 and 2024. The dashboard is designed to help businesses understand customer behavior, product preferences, regional performance, and time-based sales trends.
+Built to improve internal HR visibility, this Power BI report consolidates workforce analytics, hiring metrics, and employee performance data into an interactive and user-friendly format for leadership and HR teams.
 
 ## 📊 Dashboard Features
 The report is structured into two interactive views:
 
-### ✅ HR Executive Overview 
+### ✅ HR Executive Overview:  A high-level view for HR leadership to monitor workforce health, hiring trends, and organizational structure.
 - High-level KPIs
-- Time-based sales trends
-- Coffee type insights
-- Top-performing states
+- Employee Count
+- Satisfaction Scores
+- Hiring Trends
+- Team Demographics
+- Project Expenses
+- Sourcing Channels
 
-### ✅ Employee 360 View 
-- Sales by product category
-- Daily sales patterns
-- City-level analysis
-- Seasonal trends
-- Hourly performance insights
+### ✅ Employee 360 View : A detailed, interactive profile for each employee, combining performance, engagement, and skill development insights.
+- Employee Profiles
+- Performance Metrics
+- Skill Analysis
+- Time Allocation
 
-
-
-## 🔍 Key Insights
-- **67% of total revenue** comes from premium coffee products
-- **Cold brews dominate in summer**, while **brewed coffee leads in winter**
-- **Peak sales occur between 12 to 3 p.m.**
-- **Software Engineers are the top customer segment** by revenue
 
 ## ✨ Design Enhancements
 - **Interactive Navigation Pane**: Seamless movement between views
