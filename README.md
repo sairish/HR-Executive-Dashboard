@@ -39,9 +39,8 @@ The report is structured into two interactive views:
 - **Excel & CSV** for data sources
 
 ## 📸 Screenshots & Demonstration
-- ![Executive Dashboard](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Exec%20View%20Page.png)
-- ![Product View](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Prod%20View%20Page.png)
-- ![Customer View](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/Resources/Cust%20View%20Page.png)
+- ![HR Executive Overview](https://github.com/sairish/HR-Executive-Dashboard/blob/main/Other/Employee%20360%20View.png)
+- ![Employee 360 View](https://github.com/sairish/HR-Executive-Dashboard/blob/main/Other/HR%20Exec%20View.png)
 
 ## 📽️ Reference Video
 [Watch the Dashboard Walkthrough](https://www.linkedin.com/feed/update/urn:li:activity:7310734296049156098?utm_source=share&utm_medium=member_android&rcm=ACoAAD2Q0b8BYXeDJMbKJ6exGzSDCMJZ8DWwWmA)
@@ -49,8 +48,8 @@ The report is structured into two interactive views:
 Click the above link to watch the video walkthrough of the dashboard.
 
 ## 📂 Project Files
-- [📄 Coffee_sales_Dataset.csv](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/094afd77bb37bbee13db38b1fee18a9224cb30ee/Coffee_sales_Dataset.csv)
-- [`README.md`](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI/blob/main/README.md)
+- [📄 Coffee_sales_Dataset.csv](https://github.com/sairish/HR-Executive-Dashboard/tree/main/employee_Dataset)
+- [`README.md`](https://github.com/sairish/HR-Executive-Dashboard/blob/main/README.md)
 
 
 
