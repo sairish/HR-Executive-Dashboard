@@ -1,0 +1,22 @@
+EmployeeID,FullName,TrainingOrCertification,DueDate,IsCompleted
+E0478,Nikitha,Scrum Master Certification,4/30/2024,Completed
+E0478,Nikitha,Machine Learning Specialization,10/30/2023,Completed
+E0478,Nikitha,AWS Certified Solutions Architect,9/21/2023,Completed
+E0478,Nikitha,Leadership Training,2/6/2025,Completed
+E0478,Nikitha,Big Data Bootcamp,6/1/2025,Due
+E0478,Nikitha,Oracle Cloud Certification,12/31/2025,Due
+E0478,Nikitha,Agile Workshop,4/4/2025,Due
+E0642,Ammu,Machine Learning Specialization,12/17/2024,Completed
+E0642,Ammu,AWS Certified Solutions Architect,8/13/2024,Completed
+E0642,Ammu,Big Data Bootcamp,1/22/2025,Completed
+E0642,Ammu,Python for Data Science,3/9/2025,Completed
+E0642,Ammu,Certified Data Analyst,8/15/2025,Due
+E0642,Ammu,Security Awareness,4/4/2025,Due
+E0642,Ammu,Agile Workshop,7/30/2025,Due
+E0185,Tommy Hall,Python for Data Science,10/26/2024,Completed
+E0185,Tommy Hall,Security Awareness,9/16/2023,Completed
+E0185,Tommy Hall,Machine Learning Specialization,10/17/2023,Completed
+E0185,Tommy Hall,Google Data Engineer,9/28/2024,Completed
+E0185,Tommy Hall,Leadership Training,6/31/2025,Due
+E0185,Tommy Hall,Time Management Skills,5/30/2025,Due
+E0185,Tommy Hall,AWS Certified Solutions Architect,4/4/2025,Due
