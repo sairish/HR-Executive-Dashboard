@@ -54,6 +54,10 @@ If you have any questions or feedback, feel free to connect with me on LinkedIn 
 - 👨‍💻 All of my projects are available at <a href="https://sairish.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a>
 - 🔗 <a href="https://www.linkedin.com/in/venkatasairishitha" target="_blank">LinkedIn Page</a>
 - 🌐 <a href="https://github.com/sairish" target="_blank">GitHub Page</a>
+- 🌏 [`Other Projects`][🍵COFFEE SALES DASHBOARD](https://github.com/sairish/Coffee-Shop-Sales-Dashboard_PowerBI)
+      [🍵SUPER STORES SALES DASHBOARD](https://github.com/sairish/US-SUPER-STORES-SALES-ANALYSIS-DASHBOARD)
+      [🚗CAR SALES DASHBOARD](https://github.com/sairish/US-Car-Sales-Dashboard)
+  
 ## 📧 Contact 
 - 📫 How to reach me **mailtosairishitha@gmail.com**
 
